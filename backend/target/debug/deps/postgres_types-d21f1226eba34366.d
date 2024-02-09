@@ -1,0 +1,9 @@
+/Users/tinotendajoe/Documents/Code/SOURCE-CODE/fullstack-rust-nextjs-main/backend/target/debug/deps/libpostgres_types-d21f1226eba34366.rmeta: /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/lib.rs /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/pg_lsn.rs /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/private.rs /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/special.rs /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/type_gen.rs
+
+/Users/tinotendajoe/Documents/Code/SOURCE-CODE/fullstack-rust-nextjs-main/backend/target/debug/deps/postgres_types-d21f1226eba34366.d: /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/lib.rs /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/pg_lsn.rs /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/private.rs /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/special.rs /Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/type_gen.rs
+
+/Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/lib.rs:
+/Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/pg_lsn.rs:
+/Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/private.rs:
+/Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/special.rs:
+/Users/tinotendajoe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.6/src/type_gen.rs:
